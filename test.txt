@@ -1,0 +1,9 @@
+U a b c x y z dad mom girl boy man woman
+R (dad boy) (dad girl) (mom boy) (mom girl)
+R (dad man) (boy man) (mom woman) (girl woman)
+S a b c x
+S x y z
+C intersect 2 3
+C minus 2 3
+C codomain 2
+C function 3
